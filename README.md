@@ -60,5 +60,5 @@ I’m passionate about **software development, emerging technologies, and contin
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: [*(https://github.com/kyleweisbock)*](www.linkedin.com/in/kyle-weisbock-622698288)
+- LinkedIn: (www.linkedin.com/in/kyle-weisbock-622698288)
 - Email: *(optional)*
