@@ -3,7 +3,7 @@
 🎓 **Graduate Full Stack Software Developer (Mobile & Web)**  
 🌍 South African & German (EU) Citizen  
 
-I build **web and mobile applications** and enjoy working across the full stack — from clean, user-focused interfaces to scalable back-end systems and cloud services.  
+I build **web and mobile applications** and enjoy working across the full stack from clean, user-focused interfaces to scalable back-end systems and cloud services.  
 I’m passionate about **software development, emerging technologies, and continuous learning**, and I enjoy turning real-world requirements into functional, well-structured solutions.
 
 ---
